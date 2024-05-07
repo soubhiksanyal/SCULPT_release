@@ -16,6 +16,7 @@ Licensor grants you (Licensee) personally a single-user, non-exclusive, non-tran
 To install the Data & Software on computers owned, leased or otherwise controlled by you and/or your organization;
 To use the Data & Software for the sole purpose of performing non-commercial scientific research, non-commercial education, or non-commercial artistic projects;
 To use the software (released in GitHub), you must agree to the NVIDIA StyleGAN3 LICENSE (https://github.com/NVlabs/stylegan3/blob/main/LICENSE.txt), in addition.
+To use the software (released in GitHub), you must agree to the SMPL model LICENSE (https://smpl.is.tue.mpg.de/modellicense.html), in addition.
 
 Any other use, in particular any use for commercial, pornographic, military, or surveillance, purposes is prohibited. This includes, without limitation, incorporation in a commercial product, use in a commercial service, or production of other artifacts for commercial purposes. The Data & Software may not be used to create fake, libelous, misleading, or defamatory content of any kind excluding analyses in peer-reviewed scientific research. The Data & Software may not be reproduced, modified and/or made available in any form to any third party without Max-Planck’s prior written permission.
 
