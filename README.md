@@ -49,4 +49,4 @@ If one wishes to use the pretrained model to generate new color samples, this ca
 We already provide the pre-computed CLIP and BLIP features for the samples shown in the main paper and the video for a smooth starting point.
 
 ## LICENSE
-Please check the license on the [project website](https://sculpt.is.tue.mpg.de/license.html). Questions related to licensing could be addressed to ps-licensing@tue.mpg.de
+To use this codebase please agree to the license agreement at the [project website](https://sculpt.is.tue.mpg.de/license.html). Questions related to licensing could be addressed to ps-licensing@tue.mpg.de
