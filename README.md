@@ -13,7 +13,22 @@ First clone the github repo.
 git clone https://github.com/soubhiksanyal/SCULPT_release.git
 cd SCULPT_release
 ```
+Install the packages and the corresponding versions as mentioned in the requirements.txt file.
 
+```
+python3 -m venv SCULPT
+source SCULPT/bin/activate
+pip install -r requirements.txt
+```
+
+Install the following version of PyTorch. The training and inference code are tested on V100 and A100 GPUs. We have trained our models with 8 GPUs for five/six days for getting the reported result.
+
+```
+torch                    1.13.1
+torchaudio               0.13.1
+torchmetrics             0.11.1
+torchvision              0.14.1
+```
 Create a data folder inside the main directory. 
 
 ```
@@ -33,6 +48,7 @@ sh trainer_cluster_mul.sh
 
 To train SCULPT with a new dataset, follow the script provided by dataset_tool.py. But one first needs to compute the clothing type and clothing color for the new data as describe in the main paper. We will add the scripts for these feature computations in a future update.
 
+We already provide the checkpoint for the trained geometry generator which requires addtional five days to train. 
 
 ## Inference 
 
