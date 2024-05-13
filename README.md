@@ -50,6 +50,8 @@ To train SCULPT with a new dataset, follow the script provided by dataset_tool.p
 
 We already provide the checkpoint for the trained geometry generator which requires addtional five days to train. 
 
+We also provide the raw fashion images (512x512) and their annotations in case one wants to train their own model for academic research.
+
 ## Inference 
 
 First, create a data folder. Next, download and extract all the data from the project website and place them into the data folder. Then, run the following command to generate the meshes and renderings used in the main paper and the video. 

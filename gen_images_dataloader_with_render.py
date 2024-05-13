@@ -337,7 +337,7 @@ def generate_images(
         
 
     # ipdb.set_trace()
-    inference_texrend = TextureRender(img_size=512).to(device)
+    inference_texrend = TextureRender(img_size=256).to(device)
 
     for seed_idx, seed in enumerate(seeds):
         ## Mapping network
