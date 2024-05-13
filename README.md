@@ -71,6 +71,8 @@ To use this codebase please agree to the license agreement at the [project websi
 
 ## Citation
 
+Please cite our paper in case you use our data and/or code.
+
 ```
 @inproceedings{SCULPT:CVPR:2024,
   title = {{SCULPT}: Shape-Conditioned Unpaired Learning of Pose-dependent Clothed and Textured Human Meshes},
