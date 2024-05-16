@@ -4,6 +4,8 @@ The official codebase for SCULPT: Shape-Conditioned Unpaired Learning of Pose-de
 **[Project Website](https://sculpt.is.tue.mpg.de)** | **[Dataset Download](https://sculpt.is.tue.mpg.de/download.php)** | **[Arxiv Paper](https://arxiv.org/pdf/2308.10638v2)**
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KbVp30eLtT8?si=MmAqUL86DEC_b_nX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Training
 
 
