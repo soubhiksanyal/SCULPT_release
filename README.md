@@ -1,10 +1,7 @@
 # SCULPT_release (CVPR 2024)
 The official codebase for SCULPT: Shape-Conditioned Unpaired Learning of Pose-dependent Clothed and Textured Human Meshes
 
-**[Project Website](https://sculpt.is.tue.mpg.de)** | **[Dataset Download](https://sculpt.is.tue.mpg.de/download.php)** | **[Arxiv Paper](https://arxiv.org/pdf/2308.10638v2)**
-
-
-[![Demo Video](https://img.youtube.com/vi/KbVp30eLtT8/1.jpg)](https://youtu.be/KbVp30eLtT8)
+**[Project Website](https://sculpt.is.tue.mpg.de)** | **[Dataset Download](https://sculpt.is.tue.mpg.de/download.php)** | **[Arxiv Paper](https://arxiv.org/pdf/2308.10638v2)** | **[Video](https://youtu.be/KbVp30eLtT8)**
 
 ## Training
 
