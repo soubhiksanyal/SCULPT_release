@@ -76,7 +76,7 @@ Please cite our paper in case you use our data and/or code.
 @inproceedings{SCULPT:CVPR:2024,
   title = {{SCULPT}: Shape-Conditioned Unpaired Learning of Pose-dependent Clothed and Textured Human Meshes},
   author = {Sanyal, Soubhik and Ghosh, Partha and Yang, Jinlong and Black, Michael J. and Thies, Justus and Bolkart, Timo},
-  booktitle = CVPR,
+  booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
   year = {2024},
 }
 
